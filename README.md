@@ -7,7 +7,7 @@
 ### Universal-Carrier Steganography Platform
 
 **Author:** `SYLHETYHACKVENGER` (THE-ERROR808)  
-**Version:** 15 (Black Ops)  
+**Version:** (Black Ops)  
 **License:** MIT (with ethical-use addendum)  
 **Language:** Python 3.10+  
 
