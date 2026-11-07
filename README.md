@@ -1,34 +1,6 @@
-
-<div align="center">
-
-```
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣀⣀⣤⣤⣤⣬⣻⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣠⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣾⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠉⠻⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⠛⠛⡟⠀⠀⠀⠀⠀⢀⡴⠦⣄⠀⠀⠈⣖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣖⣚⡁⣀⢠⢠⣠⣖⣉⣤⣤⢞⡆⠀⠀⠈⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣤⣬⣭⡻⣏⣿⠝⠓⠊⣉⣹⠃⠀⠀⠀⠀⠙⢄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⢘⣯⣉⣴⣿⣿⣿⣷⣿⣿⣿⣿⣷⠤⢤⣄⡀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⣴⠟⠁⠀⡀⠀⠀⠈⠙⠻⠿⠿⠿⢛⡋⠀⠀⠀⠙⣆⠀⠀⠀⠈⠑⠦⠤⢄⡀
-⠀⠀⢸⢻⠀⢠⠊⠀⠀⠀⠀⠀⣀⣠⠴⣞⠉⠙⢯⡉⠙⢢⢘⡆⠀⠀⠀⠀⠀⠀⢤⡞
-⠀⠀⢸⡜⡀⠀⠀⠀⠀⢀⣴⡛⠙⢦⡀⠈⠳⡀⠀⠓⣄⢈⣧⡟⠀⠀⠀⠀⣀⣀⡀⠙
-⠀⠀⠈⢧⠀⠀⠀⢀⡔⠋⣠⠽⠶⠤⠬⠦⠴⠿⠶⠒⠛⠋⣾⡅⠀⠀⠀⠀⠈⠳⣍⠉
-⠀⠀⠀⠹⣦⠀⠀⡎⠀⠀⠙⠓⠦⢤⢄⣀⣀⣀⣀⣤⣴⣾⣿⣷⣦⣀⠀⢠⢤⣤⣄⣣
-⠀⠀⠀⠀⠉⠳⡼⠁⠀⠀⠀⠀⠀⠀⠀⢸⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣷⡸⡇⠀⠀⠀
-⠀⠀⣠⡴⠴⠤⣀⠀⠀⠀⠀⠀⠀⠀⢠⠏⣠⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⠃⠀⠀⠀
-⠀⢰⠃⠀⠀⢀⡴⠟⠲⢤⡀⠀⠀⠠⣏⣴⣿⢀⣿⣿⣿⣿⠛⠉⡽⠋⠉⠙⠒⢤⡀⠀
-⢀⡼⠓⠦⣄⡟⠀⠀⢀⠀⣳⠀⠀⠀⠉⣸⢻⣠⠟⢿⡇⠉⠀⠘⠃⠀⠀⡴⢃⡼⠧⡀
-⢸⠀⠀⠀⢸⠁⠀⠀⣴⠀⡗⢆⡀⠀⣠⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠙⠋⠀⠀⢳
-⠈⡗⣤⡀⠸⣆⠀⢠⡏⠊⠀⠀⠑⢋⣹⠀⠀⠀⠀⠸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠓
-⠰⣇⠀⠉⠉⠉⠳⢾⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠘⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠈⠓⠦⢤⣀⡤⢞⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠈⠓⢦⡀⠀⠀⠀⠀⠀⠀
-
-```
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 # ☠️ A S H E N C R Y P T
 
@@ -221,6 +193,11 @@ The MIT license applies, with the following addendum:
 > **The software shall not be used for any purpose that violates applicable law, harms individuals or organizations without authorization, or constitutes unauthorized access to computer systems. Any violation of these terms voids the warranty and shifts all liability to the user. The author disclaims responsibility for any damages — direct, indirect, incidental, or consequential — arising from unauthorized use.**
 
 ---
+
+
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 ## 🎯 Feature Matrix
 
